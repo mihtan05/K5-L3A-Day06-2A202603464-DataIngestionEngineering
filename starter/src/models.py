@@ -20,3 +20,13 @@ class Chunk:
     page: int
     text: str
     metadata: dict[str, Any] = field(default_factory=dict)
+
+
+@dataclass
+class PageLog:
+    document_id: str
+    page: int
+    raw_chars: int
+    normalized_chars: int
+    status: str  # "included", "excluded_front_back", "empty_or_divider", "error"
+    reason: str = ""

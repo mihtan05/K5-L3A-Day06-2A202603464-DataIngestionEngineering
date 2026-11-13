@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-11-13T17:33:40+07:00",
+      "component": "embedding_provider",
+      "provider": "Google Gemini API (gemini-embedding-001)",
+      "error_code": "429 RESOURCE_EXHAUSTED",
+      "details": "Free Tier limit: 100 embed_content requests per minute (RPM) and 1,000 requests per day (RPD). After pacing RPM to 90/min, Strategy A (560 chunks) and 315/407 Strategy B chunks succeeded before hitting the 1,000 RPD daily quota (retryDelay: 76127s / ~21h).",
+      "uncompleted_part": "Remaining 92 Strategy B chunks and 20 benchmark query embeddings on Gemini Free Tier.",
+      "fallback_applied": "Cleared partial Gemini vectors from document_chunks and switched the entire pipeline cleanly to local SentenceTransformers (BAAI/bge-base-en-v1.5, 768 dimensions, L2-normalized, $0 cost, no rate limit) so all strategies A, B, C, and D run on the exact same real embedding model and vector store."
+    },
+    {
+      "timestamp": "2026-11-13T17:18:21+07:00",
+      "component": "vector_store_runtime",
+      "provider": "Docker Desktop (dockerDesktopLinuxEngine)",
+      "error_code": "Daemon unavailable after host/server restart",
+      "details": "com.docker.service was stopped and could not be started without interactive desktop UAC elevation.",
+      "fallback_applied": "Provisioned native PostgreSQL 18.6 + pgvector 0.8.1 inside WSL2 Ubuntu listening on 127.0.0.1:55433 with identical day6/day6_lab credentials; starter/docker-compose.yml remains unchanged for standard Docker reproduction."
+    }
+  ]
+}

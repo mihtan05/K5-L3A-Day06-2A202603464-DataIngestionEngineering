@@ -1,4 +1,8 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Core setup, PDF parsing, embeddings, BM25 hybrid retrieval, and tests.
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+sentence-transformers>=3,<6
+google-genai>=1.0.0
+rank-bm25>=0.2.2
+pytest>=8,<9

@@ -1,0 +1,87 @@
+position_id,document_id,page,section,strategy,chunk_id,char_length,chunk_text,coherence_score_0_2,rationale
+pos_01,wb_taking_stock_aug2024,13,overview,A,A__wb_taking_stock_aug2024__p013__c000,499,"Growth accelerated in the first half of 2024
+
+Viet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a",,
+pos_01,wb_taking_stock_aug2024,13,overview,B_C_D,B__wb_taking_stock_aug2024__p013__c000,637,"Growth accelerated in the first half of 2024
+
+Viet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",,
+pos_02,wb_taking_stock_aug2024,14,overview,A,A__wb_taking_stock_aug2024__p014__c000,499,"percent (y/y) in H1-2024 compared to 20.5 percent in H1-2023, following a boost in public investment in 2023 to support the economy.
+
+Viet Nam's external position deteriorated as increased informal capital outflows offset current account and financial account surpluses The current account registered a substantial surplus, driven by a robust trade performance. The current account registered a surplus of 5.1 percent of GDP in Q1-2024 3 compared to 2.1 percent in Q1-2023, thanks to a trade surplus",,
+pos_02,wb_taking_stock_aug2024,14,overview,B_C_D,B__wb_taking_stock_aug2024__p014__c000,621,"percent (y/y) in H1-2024 compared to 20.5 percent in H1-2023, following a boost in public investment in 2023 to support the economy.
+
+Viet Nam's external position deteriorated as increased informal capital outflows offset current account and financial account surpluses The current account registered a substantial surplus, driven by a robust trade performance. The current account registered a surplus of 5.1 percent of GDP in Q1-2024 3 compared to 2.1 percent in Q1-2023, thanks to a trade surplus of 11.7 percent of GDP in Q1-2024, up from 8.7 percent in Q1-2023, underpinned by a large rebound in merchandise exports.",,
+pos_03,wb_taking_stock_aug2024,15,overview,A,A__wb_taking_stock_aug2024__p015__c000,499,"Amid the economic recovery, credit growth picked up slowly and bank asset quality remains a significant concern Credit growth improved after a sluggish start to 2024. By the close of June 2024, credit growth hit 13.5 percent (y/y), driven by improvements in manufacturing, real estate, and trade, transportation, and telecommunications. However, the latest data on consumer loans suggests subdued consumer sentiment as homebuying and auto loans in Q1-2024 declined compared to the end of 2023. Total",,
+pos_03,wb_taking_stock_aug2024,15,overview,B_C_D,B__wb_taking_stock_aug2024__p015__c000,678,"Amid the economic recovery, credit growth picked up slowly and bank asset quality remains a significant concern Credit growth improved after a sluggish start to 2024. By the close of June 2024, credit growth hit 13.5 percent (y/y), driven by improvements in manufacturing, real estate, and trade, transportation, and telecommunications. However, the latest data on consumer loans suggests subdued consumer sentiment as homebuying and auto loans in Q1-2024 declined compared to the end of 2023. Total consumer loans grew by only 6.8 percent (y/y) in Q1-2024, on the back of soft growth in 2023, lower than the average (y/y) growth rate of 16.1 percent in the previous five years.",,
+pos_04,wb_taking_stock_aug2024,16,overview,A,A__wb_taking_stock_aug2024__p016__c000,499,"Viet Nam's economic prospects are positive, with broadly balanced risks
+
+Viet Nam's economy is forecast to grow by 6.1 percent in 2024, rising to 6.5 percent in 2025-26 (Table 0.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular the United States, Viet Nam's largest export market. The real estate market is showing signs of a recovery and is forecast to",,
+pos_04,wb_taking_stock_aug2024,16,overview,B_C_D,B__wb_taking_stock_aug2024__p016__c000,795,"Viet Nam's economic prospects are positive, with broadly balanced risks
+
+Viet Nam's economy is forecast to grow by 6.1 percent in 2024, rising to 6.5 percent in 2025-26 (Table 0.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular the United States, Viet Nam's largest export market. The real estate market is showing signs of a recovery and is forecast to turn the corner in late 2024 and into 2025 as the corporate bond market freeze has eased and the Land Law came into effect from August 2024. With continued export growth and signs of a real estate recovery, domestic demand is set to firm up in H2-2024 as investor and consumer sentiment improve.",,
+pos_05,wb_taking_stock_aug2024,17,overview,A,A__wb_taking_stock_aug2024__p017__c000,500,"This outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also cont",,
+pos_05,wb_taking_stock_aug2024,17,overview,B_C_D,B__wb_taking_stock_aug2024__p017__c000,672,"This outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam.",,
+pos_06,wb_taking_stock_mar2025,11,executive_summary,A,A__wb_taking_stock_mar2025__p011__c000,499,"EXECUTIVE SUMMARY
+
+Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.
+
+External demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand",,
+pos_06,wb_taking_stock_mar2025,11,executive_summary,B_C_D,B__wb_taking_stock_mar2025__p011__c000,669,"EXECUTIVE SUMMARY
+
+Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.
+
+External demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years.",,
+pos_07,wb_taking_stock_mar2025,12,executive_summary,A,A__wb_taking_stock_mar2025__p012__c000,500,"19.3 percent in 2023, when the 2022-23 post-pandemic fiscal stimulus package was implemented.
+
+Labor market conditions improved as manufacturing job creation recovered Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation and formal unemployment remained relatively stable at",,
+pos_07,wb_taking_stock_mar2025,12,executive_summary,B_C_D,B__wb_taking_stock_mar2025__p012__c000,793,"19.3 percent in 2023, when the 2022-23 post-pandemic fiscal stimulus package was implemented.
+
+Labor market conditions improved as manufacturing job creation recovered Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation and formal unemployment remained relatively stable at 68.5 and 2.2 percent in 2024, respectively, while underemployment rates lowered at 1.7 percent at the end of 2024 (-0.3 pp from the same period in 2023) suggesting greater labor utilization. However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year.",,
+pos_08,wb_taking_stock_mar2025,13,executive_summary,A,A__wb_taking_stock_mar2025__p013__c000,500,"The balance of payment deficit widened to 2.3 percent of GDP as the current account surplus was offset by capital outflows The current account surplus shrank in the first 9 months of 2024, compared to the same period in 2023, due to a rising services deficit. The merchandise trade registered a surplus of 10.6 percent of GDP in 9M-2024, comparable to 10.8 percent in the same period of 2023, after a rebound of exports.
+
+The services account deficit widened to 2.9 percent of GDP in 9M-2024, from 2.",,
+pos_08,wb_taking_stock_mar2025,13,executive_summary,B_C_D,B__wb_taking_stock_mar2025__p013__c000,685,"The balance of payment deficit widened to 2.3 percent of GDP as the current account surplus was offset by capital outflows The current account surplus shrank in the first 9 months of 2024, compared to the same period in 2023, due to a rising services deficit. The merchandise trade registered a surplus of 10.6 percent of GDP in 9M-2024, comparable to 10.8 percent in the same period of 2023, after a rebound of exports.
+
+The services account deficit widened to 2.9 percent of GDP in 9M-2024, from 2.1 percent a year earlier, due to growing trade services imports (US$14.6 billion, 40 percent of total services imports). Net income outflows remained stable at 2.3 percent of GDP in 9M-",,
+pos_09,wb_taking_stock_mar2025,14,executive_summary,A,A__wb_taking_stock_mar2025__p014__c000,500,"cap without having to seek approval for additional credit if they reached 80 percent of their limit by August.
+
+Despite a significant public sector wage hike, under-disbursement of public investment led to fiscal tightening After a large 2023 fiscal stimulus, underdisbursement of public investment and reduced recurrent expenditures led to fiscal tightening in 2024, with the fiscal account registering a surplus of 1.8 percent of GDP. Current expenditure reached 11.3 percent of GDP, compared to 12",,
+pos_09,wb_taking_stock_mar2025,14,executive_summary,B_C_D,B__wb_taking_stock_mar2025__p014__c000,713,"cap without having to seek approval for additional credit if they reached 80 percent of their limit by August.
+
+Despite a significant public sector wage hike, under-disbursement of public investment led to fiscal tightening After a large 2023 fiscal stimulus, underdisbursement of public investment and reduced recurrent expenditures led to fiscal tightening in 2024, with the fiscal account registering a surplus of 1.8 percent of GDP. Current expenditure reached 11.3 percent of GDP, compared to 12.4 percent in 2023. Disbursement of public investment is estimated at 4.6 percent of GDP in 2024 (7.1 percent in 2023) corresponding to 77.5 percent of the prime minister's approved budget as end of December 2024.",,
+pos_10,wb_taking_stock_mar2025,15,executive_summary,A,A__wb_taking_stock_mar2025__p015__c000,499,"Source: GSO; MoF; SBV; IMF; and World Bank staff calculations.
+
+Note: e = estimate; f = forecast,*: excluding unallocated expenditures and following Government Finance Statistics (GFS),**: calculated based on the approved fiscal plan for 2025 and three-year fiscal plan for 2025-27.
+
+Table 0.1. Selected economic indicators, Viet Nam 2021-26
+
+2025f 6.8 7.1 4.5 8.4 12.1 12.7 3.5 1.8 -1.4 34.2 2024e 7.1 6.6 4.5 7.3 15.5 16.1 3.5 1.9 1.8 35.6 2026f 6.5 7.3 4.4 8.1 5.5 6.3 3.5 1.7 -1.0 32.4 Indicator",,
+pos_10,wb_taking_stock_mar2025,15,executive_summary,B_C_D,B__wb_taking_stock_mar2025__p015__c000,773,"Source: GSO; MoF; SBV; IMF; and World Bank staff calculations.
+
+Note: e = estimate; f = forecast,*: excluding unallocated expenditures and following Government Finance Statistics (GFS),**: calculated based on the approved fiscal plan for 2025 and three-year fiscal plan for 2025-27.
+
+Table 0.1. Selected economic indicators, Viet Nam 2021-26
+
+2025f 6.8 7.1 4.5 8.4 12.1 12.7 3.5 1.8 -1.4 34.2 2024e 7.1 6.6 4.5 7.3 15.5 16.1 3.5 1.9 1.8 35.6 2026f 6.5 7.3 4.4 8.1 5.5 6.3 3.5 1.7 -1.0 32.4 Indicator
+
+GDP growth (%)
+
+Growth of expenditure components
+
+Private consumption
+
+Public consumption
+
+Investment
+
+Exports
+
+Imports
+
+Consumer Price Index (average, %)
+
+Current account balance (% of GDP)
+
+Fiscal balance (*) (% of GDP)
+
+Public & publicly guaranteed debt (**) (% of GDP)",,

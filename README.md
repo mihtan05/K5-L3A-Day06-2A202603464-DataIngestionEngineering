@@ -45,3 +45,16 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+## 4. Triển khai & Cách tái lập (2A202603464 — Dương Minh Tân)
+
+- **Corpus (`data/manifest.json`):** 2 báo cáo World Bank *Taking Stock* Viet Nam (`starter/data/wb_taking_stock_aug2024.pdf` và `starter/data/wb_taking_stock_mar2025.pdf`, CC BY-NC 3.0 IGO), tổng **94 trang nội dung hợp lệ**.
+- **Vector store & Embedding:** PostgreSQL 18.6 + `pgvector 0.8.1` (`127.0.0.1:55433`, `day6_lab`) và `BAAI/bge-base-en-v1.5` (768 chiều, local). Có `starter/docker-compose.yml` chuẩn (fallback WSL2 được ghi tại [starter/results/provider_error_log.json](starter/results/provider_error_log.json)).
+- **Pipeline & Benchmark:** Mã nguồn ở `starter/src/`, unit/integration tests ở [starter/tests/test_pipeline.py](starter/tests/test_pipeline.py), 20 câu hỏi tại [benchmark/questions.json](benchmark/questions.json), kết quả và nhãn kiểm toán tại `starter/results/`, nhật ký tại [artifacts/experiment_log.csv](artifacts/experiment_log.csv), và báo cáo cá nhân tại [report/individual/2A202603464_DuongMinhTan.md](report/individual/2A202603464_DuongMinhTan.md).
+
+```powershell
+cd starter
+.\.venv\Scripts\python.exe scripts\check_setup.py
+.\.venv\Scripts\python.exe -m pytest -v tests
+.\.venv\Scripts\python.exe -u -m src.run --split all --k-rrf 60 --bm25-weight 0.8
+```

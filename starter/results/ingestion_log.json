@@ -1,0 +1,1310 @@
+{
+  "corpus_total_content_pages": 94,
+  "manifest_total_pages": 94,
+  "page_logs": [
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 1,
+      "raw_chars": 251,
+      "normalized_chars": 187,
+      "status": "excluded_front_back",
+      "reason": "cover"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 2,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 3,
+      "raw_chars": 66,
+      "normalized_chars": 67,
+      "status": "excluded_front_back",
+      "reason": "inner_title"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 4,
+      "raw_chars": 1195,
+      "normalized_chars": 1125,
+      "status": "excluded_front_back",
+      "reason": "copyright"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 5,
+      "raw_chars": 1900,
+      "normalized_chars": 1829,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 6,
+      "raw_chars": 1814,
+      "normalized_chars": 1764,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 7,
+      "raw_chars": 2431,
+      "normalized_chars": 2390,
+      "status": "excluded_front_back",
+      "reason": "list_of_figures"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 8,
+      "raw_chars": 1341,
+      "normalized_chars": 1294,
+      "status": "excluded_front_back",
+      "reason": "list_of_tables"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 9,
+      "raw_chars": 1055,
+      "normalized_chars": 944,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 10,
+      "raw_chars": 402,
+      "normalized_chars": 323,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 11,
+      "raw_chars": 1364,
+      "normalized_chars": 1286,
+      "status": "excluded_front_back",
+      "reason": "acknowledgements"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 12,
+      "raw_chars": 76,
+      "normalized_chars": 8,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=8 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 13,
+      "raw_chars": 2962,
+      "normalized_chars": 2873,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 14,
+      "raw_chars": 3576,
+      "normalized_chars": 3476,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 15,
+      "raw_chars": 3831,
+      "normalized_chars": 3732,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 16,
+      "raw_chars": 2965,
+      "normalized_chars": 2821,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 17,
+      "raw_chars": 3190,
+      "normalized_chars": 3092,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 18,
+      "raw_chars": 2717,
+      "normalized_chars": 2624,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 19,
+      "raw_chars": 115,
+      "normalized_chars": 46,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=46 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 20,
+      "raw_chars": 2709,
+      "normalized_chars": 2478,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 21,
+      "raw_chars": 2569,
+      "normalized_chars": 2424,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 22,
+      "raw_chars": 2858,
+      "normalized_chars": 2696,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 23,
+      "raw_chars": 2094,
+      "normalized_chars": 2053,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 24,
+      "raw_chars": 2677,
+      "normalized_chars": 2597,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 25,
+      "raw_chars": 2983,
+      "normalized_chars": 2937,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 26,
+      "raw_chars": 3041,
+      "normalized_chars": 3002,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 27,
+      "raw_chars": 2297,
+      "normalized_chars": 2008,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 28,
+      "raw_chars": 3207,
+      "normalized_chars": 3047,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 29,
+      "raw_chars": 2679,
+      "normalized_chars": 2457,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 30,
+      "raw_chars": 2622,
+      "normalized_chars": 2336,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 31,
+      "raw_chars": 2577,
+      "normalized_chars": 2453,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 32,
+      "raw_chars": 3289,
+      "normalized_chars": 3082,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 33,
+      "raw_chars": 2434,
+      "normalized_chars": 2265,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 34,
+      "raw_chars": 3129,
+      "normalized_chars": 2956,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 35,
+      "raw_chars": 3694,
+      "normalized_chars": 3599,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 36,
+      "raw_chars": 3156,
+      "normalized_chars": 3015,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 37,
+      "raw_chars": 2998,
+      "normalized_chars": 2905,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 38,
+      "raw_chars": 122,
+      "normalized_chars": 53,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=53 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 39,
+      "raw_chars": 3685,
+      "normalized_chars": 3590,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 40,
+      "raw_chars": 3101,
+      "normalized_chars": 2960,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 41,
+      "raw_chars": 2137,
+      "normalized_chars": 2006,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 42,
+      "raw_chars": 1656,
+      "normalized_chars": 1579,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 43,
+      "raw_chars": 1530,
+      "normalized_chars": 1462,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 44,
+      "raw_chars": 3289,
+      "normalized_chars": 3189,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 45,
+      "raw_chars": 2863,
+      "normalized_chars": 2749,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 46,
+      "raw_chars": 3324,
+      "normalized_chars": 3227,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 47,
+      "raw_chars": 2396,
+      "normalized_chars": 2310,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 48,
+      "raw_chars": 3185,
+      "normalized_chars": 2967,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 49,
+      "raw_chars": 3504,
+      "normalized_chars": 3309,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 50,
+      "raw_chars": 3323,
+      "normalized_chars": 3231,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 51,
+      "raw_chars": 2395,
+      "normalized_chars": 2342,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 52,
+      "raw_chars": 2479,
+      "normalized_chars": 2391,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 53,
+      "raw_chars": 2245,
+      "normalized_chars": 2095,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 54,
+      "raw_chars": 3118,
+      "normalized_chars": 3027,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 55,
+      "raw_chars": 2511,
+      "normalized_chars": 2428,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 56,
+      "raw_chars": 3654,
+      "normalized_chars": 3556,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 57,
+      "raw_chars": 3149,
+      "normalized_chars": 3057,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 58,
+      "raw_chars": 3352,
+      "normalized_chars": 3256,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 59,
+      "raw_chars": 3723,
+      "normalized_chars": 3621,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 60,
+      "raw_chars": 3790,
+      "normalized_chars": 3694,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 61,
+      "raw_chars": 67,
+      "normalized_chars": 0,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=0 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 62,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 63,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 64,
+      "raw_chars": 126,
+      "normalized_chars": 130,
+      "status": "excluded_front_back",
+      "reason": "back_cover"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 1,
+      "raw_chars": 198,
+      "normalized_chars": 202,
+      "status": "excluded_front_back",
+      "reason": "cover"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 2,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 3,
+      "raw_chars": 81,
+      "normalized_chars": 82,
+      "status": "excluded_front_back",
+      "reason": "inner_title"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 4,
+      "raw_chars": 1128,
+      "normalized_chars": 1125,
+      "status": "excluded_front_back",
+      "reason": "copyright"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 5,
+      "raw_chars": 1146,
+      "normalized_chars": 1165,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 6,
+      "raw_chars": 2712,
+      "normalized_chars": 2700,
+      "status": "excluded_front_back",
+      "reason": "list_of_figures"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 7,
+      "raw_chars": 1528,
+      "normalized_chars": 1464,
+      "status": "excluded_front_back",
+      "reason": "list_of_tables"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 8,
+      "raw_chars": 1038,
+      "normalized_chars": 1010,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 9,
+      "raw_chars": 882,
+      "normalized_chars": 898,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 10,
+      "raw_chars": 1239,
+      "normalized_chars": 1232,
+      "status": "excluded_front_back",
+      "reason": "acknowledgements"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 11,
+      "raw_chars": 2705,
+      "normalized_chars": 2591,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 12,
+      "raw_chars": 3045,
+      "normalized_chars": 2941,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 13,
+      "raw_chars": 3424,
+      "normalized_chars": 3286,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 14,
+      "raw_chars": 2667,
+      "normalized_chars": 2577,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 15,
+      "raw_chars": 2354,
+      "normalized_chars": 2203,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 16,
+      "raw_chars": 3167,
+      "normalized_chars": 3067,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 17,
+      "raw_chars": 3176,
+      "normalized_chars": 3040,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 18,
+      "raw_chars": 45,
+      "normalized_chars": 46,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=46 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 19,
+      "raw_chars": 2230,
+      "normalized_chars": 2086,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 20,
+      "raw_chars": 2358,
+      "normalized_chars": 2253,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 21,
+      "raw_chars": 1373,
+      "normalized_chars": 1303,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 22,
+      "raw_chars": 2624,
+      "normalized_chars": 2581,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 23,
+      "raw_chars": 2061,
+      "normalized_chars": 1978,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 24,
+      "raw_chars": 2126,
+      "normalized_chars": 2116,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 25,
+      "raw_chars": 2410,
+      "normalized_chars": 2336,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 26,
+      "raw_chars": 1722,
+      "normalized_chars": 1632,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 27,
+      "raw_chars": 2446,
+      "normalized_chars": 2390,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 28,
+      "raw_chars": 2643,
+      "normalized_chars": 2561,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 29,
+      "raw_chars": 2133,
+      "normalized_chars": 2039,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 30,
+      "raw_chars": 1328,
+      "normalized_chars": 1290,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 31,
+      "raw_chars": 2646,
+      "normalized_chars": 2569,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 32,
+      "raw_chars": 2427,
+      "normalized_chars": 2351,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 33,
+      "raw_chars": 2730,
+      "normalized_chars": 2643,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 34,
+      "raw_chars": 2506,
+      "normalized_chars": 2343,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 35,
+      "raw_chars": 2760,
+      "normalized_chars": 2669,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 36,
+      "raw_chars": 1015,
+      "normalized_chars": 1010,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 37,
+      "raw_chars": 2112,
+      "normalized_chars": 2040,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 38,
+      "raw_chars": 2513,
+      "normalized_chars": 2412,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 39,
+      "raw_chars": 3431,
+      "normalized_chars": 3334,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 40,
+      "raw_chars": 1797,
+      "normalized_chars": 1750,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 41,
+      "raw_chars": 97,
+      "normalized_chars": 31,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=31 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 42,
+      "raw_chars": 2041,
+      "normalized_chars": 2008,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 43,
+      "raw_chars": 2137,
+      "normalized_chars": 2091,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 44,
+      "raw_chars": 1738,
+      "normalized_chars": 1663,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 45,
+      "raw_chars": 2359,
+      "normalized_chars": 2142,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 46,
+      "raw_chars": 2018,
+      "normalized_chars": 1971,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 47,
+      "raw_chars": 2673,
+      "normalized_chars": 2593,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 48,
+      "raw_chars": 2377,
+      "normalized_chars": 2339,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 49,
+      "raw_chars": 1264,
+      "normalized_chars": 1139,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 50,
+      "raw_chars": 2377,
+      "normalized_chars": 2327,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 51,
+      "raw_chars": 2820,
+      "normalized_chars": 2608,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 52,
+      "raw_chars": 1665,
+      "normalized_chars": 1558,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 53,
+      "raw_chars": 2429,
+      "normalized_chars": 2163,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 54,
+      "raw_chars": 893,
+      "normalized_chars": 855,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 55,
+      "raw_chars": 2322,
+      "normalized_chars": 2114,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 56,
+      "raw_chars": 1722,
+      "normalized_chars": 1599,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 57,
+      "raw_chars": 1495,
+      "normalized_chars": 1436,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 58,
+      "raw_chars": 3244,
+      "normalized_chars": 3184,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 59,
+      "raw_chars": 3189,
+      "normalized_chars": 3091,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 60,
+      "raw_chars": 1741,
+      "normalized_chars": 1708,
+      "status": "included",
+      "reason": "substantive content page"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 61,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 62,
+      "raw_chars": 157,
+      "normalized_chars": 130,
+      "status": "excluded_front_back",
+      "reason": "back_cover"
+    }
+  ],
+  "skipped_or_empty_pages": [
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 1,
+      "raw_chars": 251,
+      "normalized_chars": 187,
+      "status": "excluded_front_back",
+      "reason": "cover"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 2,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 3,
+      "raw_chars": 66,
+      "normalized_chars": 67,
+      "status": "excluded_front_back",
+      "reason": "inner_title"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 4,
+      "raw_chars": 1195,
+      "normalized_chars": 1125,
+      "status": "excluded_front_back",
+      "reason": "copyright"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 5,
+      "raw_chars": 1900,
+      "normalized_chars": 1829,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 6,
+      "raw_chars": 1814,
+      "normalized_chars": 1764,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 7,
+      "raw_chars": 2431,
+      "normalized_chars": 2390,
+      "status": "excluded_front_back",
+      "reason": "list_of_figures"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 8,
+      "raw_chars": 1341,
+      "normalized_chars": 1294,
+      "status": "excluded_front_back",
+      "reason": "list_of_tables"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 9,
+      "raw_chars": 1055,
+      "normalized_chars": 944,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 10,
+      "raw_chars": 402,
+      "normalized_chars": 323,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 11,
+      "raw_chars": 1364,
+      "normalized_chars": 1286,
+      "status": "excluded_front_back",
+      "reason": "acknowledgements"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 12,
+      "raw_chars": 76,
+      "normalized_chars": 8,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=8 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 19,
+      "raw_chars": 115,
+      "normalized_chars": 46,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=46 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 38,
+      "raw_chars": 122,
+      "normalized_chars": 53,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=53 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 61,
+      "raw_chars": 67,
+      "normalized_chars": 0,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=0 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 62,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 63,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_aug2024",
+      "page": 64,
+      "raw_chars": 126,
+      "normalized_chars": 130,
+      "status": "excluded_front_back",
+      "reason": "back_cover"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 1,
+      "raw_chars": 198,
+      "normalized_chars": 202,
+      "status": "excluded_front_back",
+      "reason": "cover"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 2,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 3,
+      "raw_chars": 81,
+      "normalized_chars": 82,
+      "status": "excluded_front_back",
+      "reason": "inner_title"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 4,
+      "raw_chars": 1128,
+      "normalized_chars": 1125,
+      "status": "excluded_front_back",
+      "reason": "copyright"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 5,
+      "raw_chars": 1146,
+      "normalized_chars": 1165,
+      "status": "excluded_front_back",
+      "reason": "toc"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 6,
+      "raw_chars": 2712,
+      "normalized_chars": 2700,
+      "status": "excluded_front_back",
+      "reason": "list_of_figures"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 7,
+      "raw_chars": 1528,
+      "normalized_chars": 1464,
+      "status": "excluded_front_back",
+      "reason": "list_of_tables"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 8,
+      "raw_chars": 1038,
+      "normalized_chars": 1010,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 9,
+      "raw_chars": 882,
+      "normalized_chars": 898,
+      "status": "excluded_front_back",
+      "reason": "abbreviations"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 10,
+      "raw_chars": 1239,
+      "normalized_chars": 1232,
+      "status": "excluded_front_back",
+      "reason": "acknowledgements"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 18,
+      "raw_chars": 45,
+      "normalized_chars": 46,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=46 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 41,
+      "raw_chars": 97,
+      "normalized_chars": 31,
+      "status": "empty_or_divider",
+      "reason": "normalized_chars=31 < 150"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 61,
+      "raw_chars": 0,
+      "normalized_chars": 0,
+      "status": "excluded_front_back",
+      "reason": "blank"
+    },
+    {
+      "document_id": "wb_taking_stock_mar2025",
+      "page": 62,
+      "raw_chars": 157,
+      "normalized_chars": 130,
+      "status": "excluded_front_back",
+      "reason": "back_cover"
+    }
+  ],
+  "chunk_stats": {
+    "A": {
+      "count": 560,
+      "total_chars": 258097,
+      "min": 60,
+      "median": 500,
+      "p95": 500,
+      "max": 500
+    },
+    "B_C_D": {
+      "count": 407,
+      "total_chars": 234423,
+      "min": 8,
+      "median": 649,
+      "p95": 793,
+      "max": 800
+    }
+  },
+  "embedding_provider": "local",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "embedding_dimensions": 768,
+  "ingest_timings_seconds": {
+    "A_seconds": 25.612,
+    "B_C_D_seconds": 18.644
+  },
+  "total_ingest_elapsed_seconds": 97.649,
+  "ingest_api_usage": {
+    "provider": "local_sentence_transformers",
+    "model_name": "BAAI/bge-base-en-v1.5",
+    "api_calls": 0,
+    "texts_embedded": 0,
+    "total_chars": 0,
+    "elapsed_seconds": 0.0,
+    "rate_limit_waits": 0,
+    "errors": []
+  },
+  "estimated_ingest_tokens_approx": 0,
+  "estimated_cost_usd": 0.0
+}

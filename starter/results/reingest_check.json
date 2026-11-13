@@ -1,0 +1,28 @@
+{
+  "strategy_b_count_before": 407,
+  "strategy_b_count_after_reingest": 407,
+  "duplicates_created": 0,
+  "reingest_upsert_result": {
+    "upserted": 407,
+    "deleted_obsolete": 0
+  },
+  "stale_cleanup_test": {
+    "initial_count": 3,
+    "after_shrink_count": 2,
+    "deleted_obsolete": 1
+  },
+  "incremental_stats": {
+    "A": {
+      "upserted": 560,
+      "deleted_obsolete": 0,
+      "reused_cached": 560,
+      "newly_embedded": 0
+    },
+    "B": {
+      "upserted": 407,
+      "deleted_obsolete": 0,
+      "reused_cached": 407,
+      "newly_embedded": 0
+    }
+  }
+}
